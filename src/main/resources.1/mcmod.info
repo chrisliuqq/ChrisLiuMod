@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ChrisLiuMod",
+  "name": "ChrisLiu Mod",
+  "description": "Fast Back Home",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ChrisLiu"],
+  "credits": "The Forge and FML guys",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -92,8 +92,8 @@ public class GuiTeleport extends GuiContainer
 		
 		super.initGui();
 		
-		int posX = (int) ((this.width - xSize_lo)) / 2;
-		int posY = ySize - 150;
+		int posX = (int) ((this.width - xSize_lo) / 2 );
+		int posY = (int) ((this.height - ySize_lo) / 2 ) - 60;
 		
 		int i = 0;
 		/*
